@@ -1,0 +1,17 @@
+{
+  "name": "hm-svg-icons",
+  "version": "0.1.0",
+  "main": "Gruntfile.js",
+  "author": "Human Made Limited",
+  "license": "GPL V2",
+  "repository": {},
+  "bugs": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-grunticon": "^2.2.1"
+  },
+  "themesDir": "content/themes",
+  "dependencies": {
+    "normalize.css": "^3.0.2"
+  }
+}
